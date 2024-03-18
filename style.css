@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('bg5.webp'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 100px;
+}
+
+.continer{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #84bdeb;
+    border-radius: 8px;
+    background-color: #7fd104;
+}
+
+input, button {
+    margin: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #ee216c;
+    color: #161616;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b72121;
+}
+
+#output {
+    font-weight: bold;
+}
